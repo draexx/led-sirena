@@ -1,4 +1,4 @@
-# Arduino LED Chaser Project
+# Arduino LED Sirena Project
 
 ## Simulación
 [Ver projeto en Tinkercad](https://www.tinkercad.com/things/01oKUlHFc62-luces-de-sirena)
